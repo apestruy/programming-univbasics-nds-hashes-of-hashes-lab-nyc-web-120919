@@ -31,7 +31,7 @@
 # }
 
 def naming_system
-  hash = 
+  hash = PORTION_1, PORTION_2, PORTION_3, PORTION_4
   
 end 
   # Remember:
